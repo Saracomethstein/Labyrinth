@@ -1,0 +1,17 @@
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\bin\Debug\Labyrinth.exe.config
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.csproj.SuggestedBindingRedirects.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\App.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth_MarkupCompile.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth_MarkupCompile.lref
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Views\MainWindowView.baml
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.g.resources
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Labyrinth\obj\Debug\Labyrinth.pdb
